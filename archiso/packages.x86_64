@@ -287,14 +287,14 @@ imagemagick
 libreoffice-fresh
 #lshw
 meld
-nitrogen
+#nitrogen
 numlockx
 #pragha
 #qbittorrent
 scrot
 #simplescreenrecorder
 #termite
-variety
+#variety
 #vlc
 
 ###conky
@@ -544,7 +544,7 @@ arcolinux-local-xfce4-git
 arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
-arcolinux-nitrogen-git
+#arcolinux-nitrogen-git
 #arcolinux-oblogout
 #arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
@@ -568,12 +568,12 @@ arcolinux-system-config-git
 #arcolinux-system-config-dev-git
 #arcolinuxd-system-config-git
 arcolinux-systemd-services-git
-arcolinux-termite-themes-git
+#arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
 arcolinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-lxqt-dual-git
