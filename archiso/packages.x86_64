@@ -272,7 +272,7 @@ poppler-qt5
 #darktable
 #deadbeef
 dmenu
-#evolution
+evolution
 feh
 firefox
 #flashplugin
@@ -284,16 +284,16 @@ firefox
 #guvcview
 imagemagick
 #inkscape
-#libreoffice-fresh
+libreoffice-fresh
 #lshw
-#meld
+meld
 nitrogen
 numlockx
 #pragha
 #qbittorrent
 scrot
 #simplescreenrecorder
-termite
+#termite
 variety
 #vlc
 
@@ -493,7 +493,7 @@ urxvt-resize-font-git
 #wttr
 yad
 #yakuake
-yay-bin
+#yay-bin
 
 ###########################################################################
 #                               GAMES
